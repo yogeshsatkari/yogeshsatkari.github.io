@@ -654,7 +654,7 @@ textarea.contact-input {
   color: var(--white);
   font-size: 1.3rem;
   position: fixed;
-  bottom: 160px;
+  bottom: 130px;
   right: -30px;
   transform: rotate(0.25turn);
   opacity: 0;
@@ -674,7 +674,7 @@ textarea.contact-input {
   position: absolute;
   top: 10px;
   left: calc(100% + 7px);
-  width: 100px;
+  width: 70px;
   height: 1px;
   background-color: var(--white);
 }
