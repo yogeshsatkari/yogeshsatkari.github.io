@@ -1081,7 +1081,8 @@ textarea.contact-input {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  color: rgba(50, 50, 50, 0.9);
+  /* color: rgba(50, 50, 50, 0.9); */
+  color: #0077b5;
   display: inline-block;
   margin: 0 1px;
   line-height: 40px;
@@ -1098,21 +1099,10 @@ textarea.contact-input {
 }
 .hero-banner:hover img {
   -webkit-filter: hue-rotate(180deg);
-  /* filter: blur(.5px); */
-
-  /* .saturate {-webkit-filter: saturate(3);}
-.grayscale {-webkit-filter: grayscale(100%);}
-.contrast {-webkit-filter: contrast(160%);}
-.brightness {-webkit-filter: brightness(0.25);}
-.blur {-webkit-filter: blur(3px);}
-.invert {-webkit-filter: invert(100%);}
-.sepia {-webkit-filter: sepia(100%);}
-.huerotate {-webkit-filter: hue-rotate(180deg);}
-.rss.opacity {-webkit-filter: opacity(50%);} */
 }
 .hero-banner:hover .ovrly {
   opacity: 1;
 }
 .hero-banner:hover .buttons .fa {
-  opacity: 1;
+  opacity: .6;
 }
