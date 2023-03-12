@@ -1164,13 +1164,13 @@ padding:1rem;
   position:absolute;
   height:400px;
   width:40%;
-  right:36px;
+  right:40px;
   bottom:-3550px;
   z-index:2;
 } /*Starting bottom:0px*/
 
 
-.container .pg > img{height:75px;} /*Starting height: 350px*/
+.container .pg > img{height:80px;} /*Starting height: 350px*/
 
 .shine {
 position: absolute;
