@@ -1083,14 +1083,15 @@ textarea.contact-input {
   border-radius: 50%;
   /* color: rgba(50, 50, 50, 0.9); */
   color: #0077b5;
+  font-weight:600;
   display: inline-block;
   margin: 0 1px;
-  line-height: 40px;
+  /* line-height: 40px; */
   font-size: 16px;
   text-align: center;
   text-decoration: none;
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -1104,5 +1105,5 @@ textarea.contact-input {
   opacity: 1;
 }
 .hero-banner:hover .buttons .fa {
-  opacity: .6;
+  opacity: .7;
 }
