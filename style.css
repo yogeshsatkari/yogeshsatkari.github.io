@@ -1165,12 +1165,12 @@ padding:1rem;
   height:400px;
   width:40%;
   right:40px;
-  bottom:-3550px;
+  bottom:-3570px;
   z-index:2;
 } /*Starting bottom:0px*/
 
 
-.container .pg > img{height:80px;} /*Starting height: 350px*/
+.container .pg > img{height:70px;} /*Starting height: 350px*/
 
 .shine {
 position: absolute;
