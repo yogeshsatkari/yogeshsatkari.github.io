@@ -1099,7 +1099,7 @@ textarea.contact-input {
 .hero-banner:hover img {
   /* -webkit-filter: hue-rotate(180deg); */
   /* -webkit-filter: grayscale(100%); */
-  -webkit-filter:  opacity(80%);
+  -webkit-filter:  opacity(95%);
 }
 .hero-banner:hover .ovrly {
   opacity: 1;
@@ -1168,7 +1168,7 @@ padding:1rem;
   height:400px;
   width:40%;
   right:40px;
-  bottom:-3550px;
+  bottom:-3590px;
   z-index:2;
 } /*Starting bottom:0px*/
 
