@@ -1097,7 +1097,9 @@ textarea.contact-input {
   opacity: 0;
 }
 .hero-banner:hover img {
-  -webkit-filter: hue-rotate(180deg);
+  /* -webkit-filter: hue-rotate(180deg); */
+  /* -webkit-filter: grayscale(100%); */
+  -webkit-filter: blur(1px);
 }
 .hero-banner:hover .ovrly {
   opacity: 1;
