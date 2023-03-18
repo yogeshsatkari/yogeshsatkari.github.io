@@ -1099,7 +1099,7 @@ textarea.contact-input {
 .hero-banner:hover img {
   /* -webkit-filter: hue-rotate(180deg); */
   /* -webkit-filter: grayscale(100%); */
-  -webkit-filter: blur(1px);
+  -webkit-filter:  opacity(50%);
 }
 .hero-banner:hover .ovrly {
   opacity: 1;
