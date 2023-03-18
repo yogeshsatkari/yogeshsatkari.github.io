@@ -301,7 +301,7 @@ body {
 .hero-banner {
   width: 150px;
   height: 172px;
-  background-color: red;
+  background-color: var(--independence);
   border-radius: var(--radius-10);
   margin-inline: auto;
   margin-block-end: 30px;
