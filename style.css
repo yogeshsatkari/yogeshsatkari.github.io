@@ -857,7 +857,7 @@ textarea.contact-input {
     gap: 10px;
     background-color: var(--white);
     border-radius: var(--radius-10);
-    padding: 20px;
+    padding: 15px;
   }
 
   .elem-1 {
@@ -894,8 +894,8 @@ textarea.contact-input {
   }
 
   .elem-3 ion-icon {
-    color: var(--minion-black);
-    font-size: 3rem;
+    color: var(--minion-yellow);
+    font-size: 3.6rem;
   }
 
   .rotate-img {
