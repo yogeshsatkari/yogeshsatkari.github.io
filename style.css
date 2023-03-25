@@ -887,13 +887,15 @@ textarea.contact-input {
   }
 
   .elem-3 {
-    top: -65px;
-    right: -65px;
+    /* top: -65px;
+    right: -65px; */
+    bottom: -50px;
+    left: -50px;
   }
 
   .elem-3 ion-icon {
-    color: var(--minion-yellow);
-    font-size: 6rem;
+    color: var(--minion-black);
+    font-size: 3rem;
   }
 
   .rotate-img {
